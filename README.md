@@ -1,7 +1,7 @@
 # Awesome Digital Manufacturing
 
-> A curated list of high-quality companies, tools, events, and resources related to **digital manufacturing**.  
-> This includes **3D printing, CNC machining, injection molding, laser cutting, digital knitting**, and other advanced manufacturing technologies.
+> A curated list of high-quality, open-source digital manufacturing projects, tools, software, and resources.  
+> This repository highlights cutting-edge advancements that inspire and propel the digital manufacturing community forward.
 
 Contributions are welcome—please submit only reputable and noteworthy entries.
 
@@ -11,13 +11,17 @@ Contributions are welcome—please submit only reputable and noteworthy entries.
 - [3D Printing](#3d-printing)  
   - [Companies (3D Printing)](#companies-3d-printing)  
   - [Software & Tools (3D Printing)](#software--tools-3d-printing)  
+  - [Materials (3D Printing)](#materials-3d-printing)  
+- [CNC Machining](#cnc-machining)  
+  - [Companies (CNC Machining)](#companies-cnc-machining)  
 - [Digital Knitting](#digital-knitting)  
   - [Companies (Digital Knitting)](#companies-digital-knitting)  
 - [Laser Cutting](#laser-cutting)  
   - [Companies (Laser Cutting)](#companies-laser-cutting)  
+  - [Software & Tools (Laser Cutting)](#software--tools-laser-cutting)  
 - [General Software](#general-software)  
   - [CAD/CAM Tools](#cadcam-tools)  
-  - [Parametric--algorithmic-design](#parametric--algorithmic-design)  
+  - [Parametric & Algorithmic Design](#parametric--algorithmic-design)  
 - [Events](#events)  
 - [Books](#books)  
 - [YouTube Channels](#youtube-channels)  
@@ -38,13 +42,35 @@ Contributions are welcome—please submit only reputable and noteworthy entries.
 - **[Elegoo](https://www.elegoo.com/)**  
   Notable for resin and FDM printers, including the **Mars** and **Saturn** series.  
 - **[Eazao](https://www.eazao.com/)**  
-  Offers ceramic 3D printers, enabling high-quality clay and ceramic additive manufacturing.
+  Offers ceramic 3D printers, enabling high-quality clay and ceramic additive manufacturing.  
+- **[Piocreat 3D](https://www.piocreat3d.com/pellet-3d-printer/)**  
+  Known for the **G5Ultra Pellet 3D Printer**, a desktop machine with a build volume of **500×500×400mm**, enabling large-format pellet-based printing.
 
 ### Software & Tools (3D Printing)  
 - **[PrusaSlicer](https://www.prusa3d.com/prusaslicer/)**  
   Open-source slicer with advanced features for FDM and SLA.  
 - **[Simplify3D](https://www.simplify3d.com/)**  
   Professional-grade slicer known for fine-tuning and multi-part printing.
+
+### Materials (3D Printing)  
+- **[Tylman Design](https://www.tylmandesign.com/)**  
+  Develops solutions to turn plastic bottles into 3D printing filament, contributing to sustainable manufacturing.  
+- **[Filastruder](https://www.filastruder.com/)**  
+  A kit for producing your own 3D printing filament from raw pellets, enabling custom materials and cost savings.  
+- **[Siraya Tech](https://siraya.tech/)**  
+  Offers a wide range of high-quality 3D printing resins known for reliability, strength, and consistency.
+
+---
+
+## CNC Machining
+
+### Companies (CNC Machining)  
+- **[MillRight CNC](https://millrightcnc.com/)**  
+  Known for the **Carve King** series, offering affordable and capable CNC router kits.  
+- **[Maslow CNC](https://www.maslowcnc.com/)**  
+  An open-source, large-format CNC machine (currently building version 4.1) with a focus on accessibility and affordability.  
+- **[Penta Machine Co.](https://www.pentamachine.com/)**  
+  Specializes in 5-axis CNC solutions, offering cutting-edge precision machining technologies.
 
 ---
 
@@ -64,17 +90,23 @@ Contributions are welcome—please submit only reputable and noteworthy entries.
 - **[Commarker](https://commarker.com/)**  
   Known primarily for fiber laser engravers, but also offers a range of laser cutting and marking solutions.
 
+### Software & Tools (Laser Cutting)  
+- **[LightBurn](https://lightburnsoftware.com/)**  
+  A powerful, feature-rich software solution for laser cutting and engraving, offering layout, editing, and control capabilities.
+
 ---
 
 ## General Software
 
 ### CAD/CAM Tools  
-- **[Fusion 360](https://www.autodesk.com/products/fusion-360/)**
-  Industry-leading CAD/CAM/CAE platform for various manufacturing workflows.
+- **[Fusion 360](https://www.autodesk.com/products/fusion-360/)**  
+  Industry-leading CAD/CAM/CAE platform for various manufacturing workflows.  
+- **[FreeCAD](https://www.freecadweb.org/)**  
+  Open-source parametric 3D CAD modeler suitable for a wide range of engineering and product design tasks.
 
 ### Parametric & Algorithmic Design  
-- **[Grasshopper](https://www.grasshopper3d.com/)**
-  Algorithmic modeling environment within **Rhinoceros 3D**, popular for computational design and custom manufacturing applications.
+- **[Rhino & Grasshopper](https://www.rhino3d.com/)**  
+  **Rhinoceros 3D** and **Grasshopper** enable algorithmic, parametric design, widely used in custom manufacturing workflows.
 
 ---
 
