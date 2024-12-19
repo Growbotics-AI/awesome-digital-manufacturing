@@ -23,6 +23,8 @@ Contributions are welcome—please submit only reputable and noteworthy entries.
   - [Companies (Electronics Assembly)](#companies-electronics-assembly)  
 - [3D Scanning](#3d-scanning)  
   - [Companies (3D Scanning)](#companies-3d-scanning)  
+- [Robotics & Automation](#robotics--automation)  
+  - [Companies (Robotics & Automation)](#companies-robotics--automation)  
 - [General Software](#general-software)  
   - [CAD/CAM Tools](#cadcam-tools)  
   - [Parametric & Algorithmic Design](#parametric--algorithmic-design)  
@@ -116,6 +118,14 @@ Contributions are welcome—please submit only reputable and noteworthy entries.
   A high-precision desktop 3D scanner that captures detailed surface geometry, facilitating rapid prototyping and quality inspection.  
 - **[Revopoint 3D](https://www.revopoint3d.com/)**  
   Offers compact and portable 3D scanners known for high accuracy and versatility, supporting applications in product design, reverse engineering, and digital asset creation.
+
+---
+
+## Robotics & Automation
+
+### Companies (Robotics & Automation)  
+- **[Borunte Robot](http://www.borunterobot.com/)**
+  Focused on R&D and production of industrial robots and automation solutions. Borunte’s robots are designed to improve efficiency and precision across a range of manufacturing tasks, supporting assembly, packaging, material handling, and more.
 
 ---
 
