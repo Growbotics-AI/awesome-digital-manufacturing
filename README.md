@@ -19,6 +19,10 @@ Contributions are welcome—please submit only reputable and noteworthy entries.
 - [Laser Cutting](#laser-cutting)  
   - [Companies (Laser Cutting)](#companies-laser-cutting)  
   - [Software & Tools (Laser Cutting)](#software--tools-laser-cutting)  
+- [Electronics Assembly](#electronics-assembly)  
+  - [Companies (Electronics Assembly)](#companies-electronics-assembly)  
+- [3D Scanning](#3d-scanning)  
+  - [Companies (3D Scanning)](#companies-3d-scanning)  
 - [General Software](#general-software)  
   - [CAD/CAM Tools](#cadcam-tools)  
   - [Parametric & Algorithmic Design](#parametric--algorithmic-design)  
@@ -93,6 +97,24 @@ Contributions are welcome—please submit only reputable and noteworthy entries.
 ### Software & Tools (Laser Cutting)  
 - **[LightBurn](https://lightburnsoftware.com/)**  
   A powerful, feature-rich software solution for laser cutting and engraving, offering layout, editing, and control capabilities.
+
+---
+
+## Electronics Assembly
+
+### Companies (Electronics Assembly)  
+- **[Opulo](https://www.opulo.io/)**  
+  Provides open-source pick-and-place machines that accurately and reliably assemble PCBAs, saving engineering time and reducing production risks.
+
+---
+
+## 3D Scanning
+
+### Companies (3D Scanning)  
+- **[Creality RaptorX 3D Scanner](https://www.creality.com/products/creality-raptorx-3d-scanner)**  
+  A high-precision desktop 3D scanner that captures detailed surface geometry, facilitating rapid prototyping and quality inspection.  
+- **[Revopoint 3D](https://www.revopoint3d.com/)**  
+  Offers compact and portable 3D scanners known for high accuracy and versatility, supporting applications in product design, reverse engineering, and digital asset creation.
 
 ---
 
