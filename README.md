@@ -26,6 +26,7 @@ Contributions are welcome—please submit only reputable and noteworthy entries.
 - [General Software](#general-software)  
   - [CAD/CAM Tools](#cadcam-tools)  
   - [Parametric & Algorithmic Design](#parametric--algorithmic-design)  
+- [Research & Papers](#research--papers)  
 - [Events](#events)  
 - [Books](#books)  
 - [YouTube Channels](#youtube-channels)  
@@ -129,6 +130,12 @@ Contributions are welcome—please submit only reputable and noteworthy entries.
 ### Parametric & Algorithmic Design  
 - **[Rhino & Grasshopper](https://www.rhino3d.com/)**  
   **Rhinoceros 3D** and **Grasshopper** enable algorithmic, parametric design, widely used in custom manufacturing workflows.
+
+---
+
+## Research & Papers
+- **[CAD-MLLM](https://cad-mllm.github.io/)**  
+  A research project exploring a multimodal large language model for CAD, aiming to enhance computer-aided design processes through advanced AI-driven insights and automation.
 
 ---
 
